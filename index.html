@@ -11,9 +11,9 @@
     <title>Fake Personal Portfolio | freeCodeCamp</title>
 </head>
 <body>
-    <header class="header">
+    <header class="header" id="navbar">
         <a href="#" class="logo">Wolcabim</a>
-        <nav class="navbar" id="navbar">
+        <nav class="navbar">
             <a href="#welcome-section">Home</a>
             <a href="#projects">Work</a>
             <a href="#contact">Contact</a>
@@ -31,33 +31,41 @@
                 <div class="btn-box">
                     <a href="#">Hire Me</a>
                 </div>
-                <div class="home-sci" id="contact">
-                    <a href="https://github.com/FedeHide" target="_blank"><i class='bx bxl-github'></i></a>
-                    <a href="https://www.linkedin.com/in/fede-hide-4a8209265/" target="_blank"><i class='bx bxl-linkedin'></i></a>
+                <div class="home-sci">
+                    <a id="profile-link" href="https://github.com/FedeHide" target="_blank"><i class='bx bxl-github'></i></a>
+                    <a id="profile-link" href="https://www.linkedin.com/in/fede-hide-4a8209265/" target="_blank"><i class='bx bxl-linkedin'></i></a>
                 </div>
             </div>
             <div class="hero-logo">
             </div>
             <span class="home-imgHover"></span>
         </section>
+
+        <article class="hero-text-movile">
+            <p>As a Full Stack Developer, I specialize in crafting end-to-end digital solutions. From user interface design to backend development, I bring versatile skills and an innovative approach to build functional, high-performance web applications.</p>
+        </article>
         
         <section id="projects">
+            <h2 class="projects-section-header">These are some of my projects</h2>
             <article class="projects-grid">
-                <a href="https://fedehide.github.io/product-landing-page/" target="_blank" class="project project-title">
+                <a href="https://fedehide.github.io/product-landing-page/" target="_blank" class="project project-tile">
                     <img class="project-image" src="https://i.postimg.cc/mkFjxV1X/handcraft-guitars.png" alt="project image">
-                    <p class="project-title"></p>
+                    <p class="project-title">Handcraft Guitars</p>
                 </a>
-                <a href="https://fedehide.github.io/typescript-utility-types-documentation/" target="_blank" class="project project-title">
+                <a href="https://fedehide.github.io/typescript-utility-types-documentation/" target="_blank" class="project project-tile">
                     <img class="project-image" src="https://i.postimg.cc/BbbJcLsD/typescript-utility-types-documentation-lightmode.png" alt="project image">
-                    <p class="project-title"></p>
+                    <p class="project-title">Documentation </p>
                 </a>
-                <a href="https://fedehide.github.io/tribute-page/" target="_blank" class="project project-title">
+                <a href="https://fedehide.github.io/tribute-page/" target="_blank" class="project project-tile">
                     <img class="project-image" src="https://i.postimg.cc/JhyPGf7k/tribute-page-Screenshot.png" alt="project image">
-                    <p class="project-title"></p>
+                    <p class="project-title">Tribute Page</p>
                 </a>
             </article>
         </section>
     </main>
 
+    <footer id="contact">
+        <p>This is a <a href="https://www.freecodecamp.org/" target="_blank">freecodecamp</a> assignment. All the projects and contact details given are <strong>real</strong>.</p>
+    </footer>
 </body>
 </html>

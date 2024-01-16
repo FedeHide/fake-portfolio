@@ -4,7 +4,7 @@
 
 ------------
 
-<!-- [![handcraft-guitars.png](https://i.postimg.cc/mkFjxV1X/handcraft-guitars.png)](https://postimg.cc/Lg2LLtTL) -->
+[![fake-portfolio-screenshot.png](https://i.postimg.cc/m2dPY1Py/fake-portfolio-screenshot.png)](https://postimg.cc/RNHC9FQW)
 
 
 > This is a [freecodecamp](http://https://www.freecodecamp.org/learn/ "freecodecamp") assignment. All the projects and contact details given are **not real**.

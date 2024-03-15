@@ -5,7 +5,7 @@ export const metadata: Metadata = {
 	title: 'Fake Personal Portfolio | freeCodeCamp',
 	description: 'This is a fake portfolio, a freecodecamp assignment',
 	openGraph: {
-		url: 'https://fake-portfolio.vercel.app/',
+		url: 'https://fake-portfolio-sigma.vercel.app/',
 		type: 'website',
 		title: 'Fake Personal Portfolio | freeCodeCamp',
 		description: 'This is a fake portfolio, a freecodecamp assignment',
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		site: 'https://fake-portfolio.vercel.app/',
+		site: 'https://fake-portfolio-sigma.vercel.app/',
 	},
 }
 

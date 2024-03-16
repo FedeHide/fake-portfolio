@@ -2,6 +2,16 @@
 
 ### Check the site [Here](https://fake-portfolio-sigma.vercel.app/ " Fake Personal Portfolio")
 
+## Introduction
+This project is a fake portfolio (not my real portfolio), a freecodecamp assignment. 
+
+## Technologies Used
+<div>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=nextjs,ts,sass" />
+	</a>
+</div>
+
 ------------
 
 [![fake-portfolio-screenshot.png](https://i.postimg.cc/m2dPY1Py/fake-portfolio-screenshot.png)](https://postimg.cc/RNHC9FQW)

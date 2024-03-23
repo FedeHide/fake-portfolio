@@ -68,7 +68,7 @@ export default function Main(): JSX.Element {
 				<h2 className="projects-section-header">These are some of my projects</h2>
 				<article className="projects-grid">
 					<a
-						href="https://fedehide.github.io/product-landing-page/"
+						href="https://product-landing-page-jet.vercel.app/"
 						target="_blank"
 						className="project project-tile"
 					>
@@ -81,7 +81,7 @@ export default function Main(): JSX.Element {
 						<p className="project-title">Handcraft Guitars</p>
 					</a>
 					<a
-						href="https://fedehide.github.io/typescript-utility-types-documentation/"
+						href="https://typescript-utility-types-documentation.vercel.app/"
 						target="_blank"
 						className="project project-tile"
 					>
@@ -94,7 +94,7 @@ export default function Main(): JSX.Element {
 						<p className="project-title">Documentation </p>
 					</a>
 					<a
-						href="https://fedehide.github.io/tribute-page/"
+						href="https://tribute-page-ebon.vercel.app/"
 						target="_blank"
 						className="project project-tile"
 					>

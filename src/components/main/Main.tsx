@@ -75,7 +75,7 @@ export default function Main(): JSX.Element {
 						{/* eslint-disable-next-line */}
 						<img
 							className="project-image"
-							src="https://i.postimg.cc/mkFjxV1X/handcraft-guitars.png"
+							src="https://raw.githubusercontent.com/FedeHide/product-landing-page/main/public/assets/handcraft-guitars.webp"
 							alt="project image"
 						/>
 						<p className="project-title">Handcraft Guitars</p>
@@ -88,7 +88,7 @@ export default function Main(): JSX.Element {
 						{/* eslint-disable-next-line */}
 						<img
 							className="project-image"
-							src="https://i.postimg.cc/BbbJcLsD/typescript-utility-types-documentation-lightmode.png"
+							src="https://raw.githubusercontent.com/FedeHide/typescript-utility-types-documentation/main/public/assets/typescript-utility-types-documentation-lightmode.webp"
 							alt="project image"
 						/>
 						<p className="project-title">Documentation </p>
@@ -101,7 +101,7 @@ export default function Main(): JSX.Element {
 						{/* eslint-disable-next-line */}
 						<img
 							className="project-image"
-							src="https://i.postimg.cc/JhyPGf7k/tribute-page-Screenshot.png"
+							src="https://raw.githubusercontent.com/FedeHide/tribute-page/main/public/images/tribute-page-Screenshot.webp"
 							alt="project image"
 						/>
 						<p className="project-title">Tribute Page</p>
